@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PPP",
+		"N#N",
+		"ONO"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:nether_star"
+        },
+        "N": {
+            "item": "minecraft:yellow_dye"
+        },
+		"O": {
+            "item": "minecraft:redstone"
+        },
+		"P": {
+            "item": "minecraft:lightning_rod"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+	
+}

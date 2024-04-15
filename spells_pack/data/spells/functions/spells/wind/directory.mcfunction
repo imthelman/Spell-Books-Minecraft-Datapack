@@ -1,0 +1,1 @@
+execute if score @s spell_id matches 1 run function spells:spells/wind/beam/init

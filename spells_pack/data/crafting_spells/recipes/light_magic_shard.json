@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PPP",
+		"N#N",
+		"PNP"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:nether_star"
+        },
+        "N": {
+            "item": "minecraft:white_dye"
+        },
+		"P": {
+            "item": "minecraft:sea_lantern"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+	
+}

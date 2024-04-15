@@ -1,0 +1,14 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "criteria": {
+        "unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+				"recipe": "crafting_spells:light_magic_shard"
+            }
+        }
+    },
+    "rewards": {
+        "function": "crafting_spells:give_light_magic_shard"
+    }
+}

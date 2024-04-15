@@ -1,0 +1,1 @@
+execute positioned ~ ~ ~ run summon lightning_bolt ^ ^ ^10

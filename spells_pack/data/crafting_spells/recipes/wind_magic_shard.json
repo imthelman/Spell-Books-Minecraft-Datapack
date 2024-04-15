@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PPP",
+		"N#N",
+		"ONO"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:nether_star"
+        },
+        "N": {
+            "item": "minecraft:white_dye"
+        },
+		"O": {
+            "item": "minecraft:ender_pearl"
+        },
+		"P": {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+	
+}

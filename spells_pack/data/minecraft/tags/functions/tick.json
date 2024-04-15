@@ -1,0 +1,11 @@
+{
+  "values":[
+	"spells:main",
+	"crafting_spells:floorcraft_fireballbook",
+	"crafting_spells:floorcraft_flamebeambook",
+	"crafting_spells:floorcraft_lightningboltbook",
+	"crafting_spells:floorcraft_lightbeambook",
+	"crafting_spells:floorcraft_lightningbeambook",
+	"crafting_spells:floorcraft_windbeambook"
+  ]
+}
