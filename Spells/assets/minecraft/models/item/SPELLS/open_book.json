@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/open_book_element1_spell1"
+	}
+}
