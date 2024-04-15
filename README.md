@@ -1,8 +1,8 @@
 # Spell Books Minecraft Datapack
 
-## Cool datapack that i make
+## Cool data pack that I make
 
 
 
 yes
-also has recourse packes
+also has recourse packs
